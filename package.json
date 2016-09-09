@@ -1,0 +1,10 @@
+{
+  "name": "test-task",
+  "private": true,
+  "version": "1.0.0",
+  "description": "тестовое задание тестировщика",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.8.19"
+  }
+}
