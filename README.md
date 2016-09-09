@@ -48,9 +48,9 @@
 Тестовый  сервер реализует REST API.
 Реализован с помощью https://github.com/typicode/json-server.
 
-Установить модули, прописанные в package.json
+установить глобально json-server
 ```bash
-npm install
+npm install -g json-server
 ```
 ##Запуск тестового сервера
 Запускаем сервер на порту 8001, тестовые данные лежат в db.json

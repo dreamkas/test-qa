@@ -4,8 +4,5 @@
   "version": "1.0.0",
   "description": "тестовое задание тестировщика",
   "license": "MIT",
-  "repository": "https://bitbucket.org/pavellob/test-task",
-  "dependencies": {
-    "json-server": "^0.8.19"
-  }
+  "repository": "https://bitbucket.org/pavellob/test-task"
 }
